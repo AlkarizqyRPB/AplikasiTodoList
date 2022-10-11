@@ -22,7 +22,7 @@ public class AplikasiTodolist {
       //testAddTodoList();
       //testRemoveTodoList();
       //testInput();
-      testViewShowTodoList();
+      //testViewShowTodoList();
       //testviewRemoveTodoList();
     }
     public static void showTodoList(){
